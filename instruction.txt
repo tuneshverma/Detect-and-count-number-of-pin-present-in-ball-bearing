@@ -1,0 +1,5 @@
+Instruction for running the code
+- on terminal run the pin_counter.py file with the image path
+example $python pin_counter.py --image path bad/1.png
+-requirements
+python, opencv, numpy
